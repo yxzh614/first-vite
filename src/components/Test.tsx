@@ -11,6 +11,6 @@ export const Test = () => {
     }, []);
     
     return <React.Fragment>
-        get name is {getName}
+       利息是傻逼 get name is {getName}
     </React.Fragment>
 }

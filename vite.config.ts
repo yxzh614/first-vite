@@ -20,5 +20,8 @@ export default defineConfig({
         second: path.resolve(__dirname, 'src/pages/second/index.html')
       }
     }
+  },
+  server: {
+    open: '/src/pages/first/index.html'
   }
 })
